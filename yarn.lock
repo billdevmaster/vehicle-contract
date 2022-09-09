@@ -632,7 +632,7 @@
     "@nomicfoundation/solidity-analyzer-win32-ia32-msvc" "0.0.3"
     "@nomicfoundation/solidity-analyzer-win32-x64-msvc" "0.0.3"
 
-"@openzeppelin/contracts@^4.3.2":
+"@openzeppelin/contracts@^4.3.3":
   "integrity" "sha512-dGRS0agJzu8ybo44pCIf3xBaPQN/65AIXNgK8+4gzKd5kbvlqyxryUYVLJv7fK98Seyd2hDZzVEHSWAh0Bt1Yw=="
   "resolved" "https://registry.npmjs.org/@openzeppelin/contracts/-/contracts-4.7.3.tgz"
   "version" "4.7.3"
@@ -727,7 +727,7 @@
     "@sentry/types" "5.30.0"
     "tslib" "^1.9.3"
 
-"@truffle/hdwallet-provider@^1.5.1":
+"@truffle/hdwallet-provider@^1.7.0":
   "integrity" "sha512-nT7BPJJ2jPCLJc5uZdVtRnRMny5he5d3kO9Hi80ZSqe5xlnK905grBptM/+CwOfbeqHKQirI1btwm6r3wIBM8A=="
   "resolved" "https://registry.npmjs.org/@truffle/hdwallet-provider/-/hdwallet-provider-1.7.0.tgz"
   "version" "1.7.0"
@@ -3440,7 +3440,7 @@
   "resolved" "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz"
   "version" "0.0.3"
 
-"truffle-plugin-verify@^0.5.16":
+"truffle-plugin-verify@^0.5.18":
   "integrity" "sha512-wmWJsJPq9Zj/FaJVXISwnL0mOGGKLgSCbOnwXzxmuv+0iRcUuccFAianYP4Ru/QjzsD2T6pQ7TUjVGLEcCkMtg=="
   "resolved" "https://registry.npmjs.org/truffle-plugin-verify/-/truffle-plugin-verify-0.5.28.tgz"
   "version" "0.5.28"
